@@ -1,0 +1,123 @@
+body {
+    font-family: 'Poppins';
+    background: #E5E5E5;
+}
+
+.container-login {
+    width: 100%;
+    margin: 263px 515px 264px 515px;
+    text-align: center;
+}
+
+.box {
+    font-style: normal;
+    position: absolute;
+    width: 470px;
+    height: 473px;
+    /* left: 515px;
+    top: 263px;
+    bottom: 264px; */
+    text-align: center;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 4px 2px rgba(0, 0, 0, 0.04);
+    border-radius: 12px;
+}
+
+.img-login {
+    position: absolute;
+    width: 262px;
+    height: 62px;
+    left: 619px;
+    top: 155px;
+}
+
+.box p {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    margin: 53px 140px 56px 140px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    color: #000000;
+}
+
+#password {
+    box-sizing: border-box;
+    position: absolute;
+    width: 393px;
+    height: 56px;
+    margin: 80px 38px 46px 39px;
+    /* Colors / white */
+    background: #FFFFFF;
+    /* bg / secondary */
+    border: 1px solid #E4E6EF;
+    border-radius: 5px;
+}
+
+#username {
+    box-sizing: border-box;
+    position: absolute;
+    width: 393px;
+    height: 56px;
+    margin: 0px 38px 4px 39px;
+    /* Colors / white */
+    background: #FFFFFF;
+    /* bg / secondary */
+    border: 1px solid #E4E6EF;
+    border-radius: 5px;
+}
+
+#btn {
+    width: 393px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 20px;
+    gap: 10px;
+    margin: 182px 38px 99px 39px;
+    position: absolute;
+
+    background: #F64E60;
+    border-radius: 5px;
+}
+
+.img-navbar {
+    width: 209px;
+    height: 50px;
+}
+
+.navbar {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    display: flex;
+    align-items: center;
+}
+
+.container {
+    padding: 63px 170px 77px 0;
+}
+
+.card-table {
+    width: 1115px;
+    height: 694px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 30px rgba(56, 71, 109, 0.1);
+    border-radius: 8px;
+}
+
+.fas {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0 10px;
+}
+
+.modal {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+}

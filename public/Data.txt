@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "kode_barang": "BRG-001",
+      "nama_barang": "Komputer",
+      "minimal_stok": "1",
+      "stok": "10",     
+      "status_stok": "Aman"
+    },
+    {
+      "kode_barang": "BRG-002",
+      "nama_barang": "Laptop",
+      "minimal_stok": "10",
+      "stok": "5",     
+      "status_stok": "Dibawah minim"
+    },
+    {
+      "kode_barang": "BRG-003",
+      "nama_barang": "Mouse",
+      "minimal_stok": "4",
+      "stok": "7",     
+      "status_stok": "Aman"
+    },
+    {
+      "kode_barang": "BRG-004",
+      "nama_barang": "PS4",
+      "minimal_stok": "1",
+      "stok": "8",     
+      "status_stok": "Aman"
+    },
+    {
+      "kode_barang": "BRG-005",
+      "nama_barang": "Monitor",
+      "minimal_stok": "1",
+      "stok": "3",     
+      "status_stok": "Dibawah minim"
+    },
+    {
+      "kode_barang": "BRG-006",
+      "nama_barang": "Printer",
+      "minimal_stok": "2",
+      "stok": "3",     
+      "status_stok": "Aman"
+    },
+    {
+      "kode_barang": "BRG-007",
+      "nama_barang": "White Board",
+      "minimal_stok": "1",
+      "stok": "1",     
+      "status_stok": "Aman"
+    },
+    {
+      "kode_barang": "BRG-008",
+      "nama_barang": "Rubrik",
+      "minimal_stok": "5",
+      "stok": "1",     
+      "status_stok": "Dibawah minim"
+    },
+    {
+      "kode_barang": "BRG-009",
+      "nama_barang": "Kursi",
+      "minimal_stok": "12",
+      "stok": "0",     
+      "status_stok": "Dibawah minim"
+    },
+    {
+      "kode_barang": "BRG-010",
+      "nama_barang": "Meja",
+      "minimal_stok": "12",
+      "stok": "1",     
+      "status_stok": "Dibawah minim"
+    }
+  ]
+}
